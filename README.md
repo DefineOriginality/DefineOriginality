@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DefineOriginality
-- 🌱 I’m currently learning Python, Java, Unity, etc
+- 🌱 I’m currently learning Python, Java, C, C++, etc
 - 📫 You can reach me on my page
 - Okay bye
 
