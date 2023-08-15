@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DefineOriginality
 - 🌱 I’m currently learning Python, Java, C, C++, etc
-- 📫 You can reach me on my page
+- 📫 You can reach me on via Discord (x_Infinite)
+- ▶️ My YouTube (314 subs as of 8/15/23): https://youtube.com/c/forlorn0
 - Okay bye
 
 <!---
